@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //deneme
+            //deneme İsmail Sabri Kargı
         }
     }
 }
